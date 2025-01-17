@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Bali Beach",
+        "type": "beach",
+        "description": "A beautiful beach destination with white sand and clear water.",
+        "imageUrl": "images/balibeach.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Japan",
+        "type": "country",
+        "description": "Known for its technology, culture, and cherry blossoms.",
+        "imageUrl": "images/japan.jpg"
+    },
+    {
+        "id": 3,
+        "name": "France",
+        "type": "country",
+        "description": "Famous for its art, fashion, and the Eiffel Tower.",
+        "imageUrl": "images/france.jpg"
+    }
+]
